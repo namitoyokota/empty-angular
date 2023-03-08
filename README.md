@@ -1,2 +1,1 @@
-# empty-angular
-Boilerplace Angular files.
+# Boilerplace Angular Project
